@@ -1,4 +1,3 @@
-# HematoVision-Advanced-Blood-Cell-Classification-Using-Transfer-Learning
 # 📁 Project Files
 
 This folder contains all essential files required to run and test the HematoVision project:
