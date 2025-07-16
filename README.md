@@ -27,10 +27,6 @@ HematoVision is a deep learning web app that classifies blood cell images into f
 - VGG16 Pre-trained Model
 - Flask Web Framework
 - HTML/CSS (for UI)
-
-## 📁 Project Structure
-Here's a complete and professional README.md you can paste into your GitHub project
-```
 📁 HematoVision/
 ├── app.py                  # Flask web app for classification
 ├── train_model.py         # Script to train CNN with VGG16
@@ -38,5 +34,4 @@ Here's a complete and professional README.md you can paste into your GitHub proj
 ├── sample1.jpg            # Sample blood cell image
 ├── sample2.jpg
 ├── requirements.txt       # Required Python packages
-```
 
