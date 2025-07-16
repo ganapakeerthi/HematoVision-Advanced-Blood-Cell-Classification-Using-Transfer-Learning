@@ -28,4 +28,4 @@ HematoVision is a deep learning web app that classifies blood cell images into f
 - HTML/CSS (for UI)
 
 ## 📁 Project Structure
-Here's a complete and professional README.md you can paste into your GitHub project#HematoVision-Advanced-Blood-Cell-Classification-Using-Transfer-Learning
+Here's a complete and professional README.md you can paste into your GitHub project#HematoVision-Advanced-Blood-Cell-Classification-Using-Transfer-Learning.
